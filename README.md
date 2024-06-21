@@ -1,4 +1,4 @@
-**Service Name:
+**Service Name:**
 Email Template Service
 
 **Description:**
