@@ -1,4 +1,4 @@
-**Service Name:**
+**Service Name:
 Email Template Service
 
 **Description:**
@@ -9,3 +9,25 @@ This is a Spring Boot service developed to handle user information such as name 
 - Predefined Templates: Stores and manages a collection of email templates.
 - Placeholder Replacement: Replaces placeholders in templates with user-specific information.
 - Email Generation: Produces the final email content ready for sending.
+
+**Example:**
+
+```
+Dear ${name},
+
+Welcome to our service! We're excited to have you on board.
+If you have any questions, feel free to contact us at ${email}.
+
+Best regards,
+${company}
+```
+
+```
+Dear John Doe,
+
+Welcome to our service! We're excited to have you on board.
+If you have any questions, feel free to contact us at support@example.com.
+
+Best regards,
+Tech Company
+```
