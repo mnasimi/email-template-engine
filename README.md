@@ -31,3 +31,6 @@ If you have any questions, feel free to contact us at support@example.com.
 Best regards,
 Tech Company
 ```
+
+**Similar Library:**
+- https://freemarker.apache.org/index.html
